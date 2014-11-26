@@ -1,0 +1,6 @@
+<cml>
+	<Container width="800" height="100">
+		<Graphic shape="rectangle" color="0xFFFFFF" fill="color" fillAlpha="0.4" width="800" height="100"/>
+		<Text x="10" y="10" width="800" class="title">Ibbenbueren im Jahre xxxx</Text>
+	</Container>
+</cml>
